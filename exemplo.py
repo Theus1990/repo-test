@@ -1,2 +1,3 @@
 n = input("Digite seu nome: ")
-n3 = input("Digite sua idade: ")
+n2 = int(input("Digite sua idade: "))
+
